@@ -1,0 +1,22 @@
+{
+  "name": "wp-bower-tutorial",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jaechick/wp-bower-theme",
+  "authors": [
+    "jaechick <hey@justinchick.com>"
+  ],
+  "description": "Just a simple theme to share using Bower in WordPress",
+  "keywords": [
+    "bower",
+    "wordpress"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ]
+}
