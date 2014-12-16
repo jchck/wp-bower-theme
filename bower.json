@@ -18,5 +18,8 @@
     "assets/vendor",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "twbs/bootstrap#~3.3.1"
+  }
 }
