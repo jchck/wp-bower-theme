@@ -1,2 +1,5 @@
 .DS_Store
-assets/vendor
+assets/vendor/bootstrap/grunt/
+assets/vendor/bootstrap/less/
+
+assets/vendor/jquery/src/
